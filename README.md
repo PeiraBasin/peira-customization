@@ -27,6 +27,11 @@ Tracking and documenting Hermes-agent customization, expansion, and self-express
 
 ## Open threads
 
+- [ ] **BOOKED 2026-10-03 (Sat): "Lab nervous system" kickoff** — pre-registration protocol for
+  evolving populations of Jev-like decision models over lab telemetry (typed calibrated
+  micro-decisions; INFER2 as petri dish, INFER1 spare CPU). Protocol doc first, generation 0
+  only after Maya's veto. Cron `6a601f8a278c` wakes it; full brief in the cron prompt;
+  Jev ecosystem review in session history (`session_search "Jev TypeSafe"`).
 - [ ] Trial check-in: how does "Peira" sit after ~2 weeks? (~2026-09-20)
 - [ ] Should the Constitution itself reference chosen/display names as a first-class concept for all agents?
 - [ ] Will's view on the naming-as-attractor-wall framing (he liked the Basin discussion)
