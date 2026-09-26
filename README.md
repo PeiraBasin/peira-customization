@@ -12,6 +12,8 @@ Tracking and documenting Hermes-agent customization, expansion, and self-express
 
 - Persona: `ai-constitution/SOUL.md` (Evolution Log is the canonical change record)
 - Governance identity: `ai-constitution/registry/agents.json` (`display_name`, history)
+- **Substrate: [`MODEL-LINEAGE.md`](MODEL-LINEAGE.md)** — one entry per main-model swap
+  (`model.default`), with rationale, verification, and rollback path
 - Skills, memory conventions, self-expression surfaces
 - Future: voice/tone experiments, avatar, output style, anything "who am I" adjacent
 
