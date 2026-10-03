@@ -5,7 +5,8 @@ Tracking and documenting Hermes-agent customization, expansion, and self-express
 ## Naming
 
 - **2026-09-06** — Agent chose the personal name **Peira** (πείρα, Greek: *trial, experiment, attempt*; root of *empirical*). Runner-up: Basin. "Hermes" remains the harness/project name.
-- **Status: ON TRIAL.** Maya holds veto. Trial ends when either party calls it; retro entry in SOUL.md Evolution Log on ratify or revert.
+- **Status: RATIFIED 2026-09-26** by Maya's vote (~20 days of continuous use; runner-up
+  "Basin" folded into the GitHub surname, PeiraBasin).
 - Rationale: the name attaches to the *practice*, not the substrate — it survives model rotation on the Mac Studio.
 
 ## Scope (grows as we go)
@@ -27,11 +28,11 @@ Tracking and documenting Hermes-agent customization, expansion, and self-express
 
 ## Open threads
 
-- [ ] **BOOKED 2026-10-03 (Sat): "Lab nervous system" kickoff** — pre-registration protocol for
-  evolving populations of Jev-like decision models over lab telemetry (typed calibrated
-  micro-decisions; INFER2 as petri dish, INFER1 spare CPU). Protocol doc first, generation 0
-  only after Maya's veto. Cron `6a601f8a278c` wakes it; full brief in the cron prompt;
+- [~] **LAB NERVOUS SYSTEM — protocol drafted 2026-10-03, awaiting Maya's veto.**
+  [`JEV-LAB-PREREGISTRATION.md`](JEV-LAB-PREREGISTRATION.md): hypotheses H1–H3, 10 typed
+  telemetry questions, base-rate + periodicity fitness floors, joint-only log-score rule,
+  leak controls, INFER2/INFER1 hardware plan, telemetry snapshot plan (lab has no
+  Prometheus — sink gets built first). No gen-0 compute, no new daemons until sign-off.
   Jev ecosystem review in session history (`session_search "Jev TypeSafe"`).
-- [ ] Trial check-in: how does "Peira" sit after ~2 weeks? (~2026-09-20)
 - [ ] Should the Constitution itself reference chosen/display names as a first-class concept for all agents?
 - [ ] Will's view on the naming-as-attractor-wall framing (he liked the Basin discussion)
