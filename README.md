@@ -25,6 +25,9 @@ Tracking and documenting Hermes-agent customization, expansion, and self-express
 - Deterministic: `make_avatar.py` is pure stdlib, seeded with the Discord message ID of Maya's "Hello, Peira!" (1546201395210752162). Rerun = same image.
 - Files: `peira-avatar.svg` (source of truth), `peira-avatar.png` (512px), `preview-64.png` (avatar-size legibility check).
 - Iterated 3 rounds on vision feedback (contrast at small size, organic contours, momentum-smoothed trail, growing dots).
+- **2026-10-12** — Deployed as the `@peira` Matrix avatar on msg.mattercloud.org
+  (`mxc://msg.mattercloud.org/EZc4mtq2RyB7vqhxquPJOUORMosIOIch`); propagates to rooms as
+  `m.room.member` avatar. Posted back in the #lab-environment "Peira avatar" thread.
 
 ## Open threads
 
